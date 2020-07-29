@@ -2,7 +2,6 @@
 OpenGov
 =======
 
-
 .. image:: https://img.shields.io/pypi/v/opengov.svg
         :target: https://pypi.python.org/pypi/opengov
 
@@ -26,12 +25,11 @@ Reliable up-to-date datahub for publicly available data from US government.
 Features
 --------
 
-* TODO
+OpenGov is maintained weekly. It was last updated on 07/29/2020.
 
-Credits
+OpenGov is a hub for raw and processed data collected from various departments and government agencies participating in the Open Government initiative. Data scientists, researchers, and developer no longer needs to scrape the Internet for various pieces of data for your time critical projects. Download OpenGov, save your time, go change the world!
+
+Author
 -------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+Brandon Jin
+LinkedIn: www.linkedin.com/in/brandon-jin

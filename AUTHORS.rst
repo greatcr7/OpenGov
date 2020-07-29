@@ -5,9 +5,13 @@ Credits
 Development Lead
 ----------------
 
-* Brandon Jin <brandonjincmu@gmail.com>
+* Brandon Jin
+* Proud Tartan
+* Email: brandonjincmu@gmail.com
+* LinkedIn: www.linkedin.com/in/brandon-jin
+* GitHub: greatcr7
 
 Contributors
 ------------
 
-None yet. Why not be the first?
+Why not join us now?
