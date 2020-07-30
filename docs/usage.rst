@@ -10,8 +10,6 @@ or to save time::
 
     import opengov as og
 
-
-High Level Functions
-====================
+To get an overview what data sets are available::
 
     from og import list_agencies

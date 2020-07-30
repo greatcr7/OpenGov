@@ -1,4 +1,4 @@
-OpenGov: Democratize Public Data
+OpenGov: Public Data Hub
 ======================================
 
 .. toctree::
