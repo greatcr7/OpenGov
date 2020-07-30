@@ -9,3 +9,9 @@ To use OpenGov in a project::
 or to save time::
 
     import opengov as og
+
+
+High Level Functions
+====================
+
+    from og import list_agencies
