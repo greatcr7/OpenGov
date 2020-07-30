@@ -10,8 +10,7 @@ OpenGov
         :alt: Documentation Status
 
 
-Reliable up-to-date datahub for publicly available data from US government.
-
+Regularly-maintained centralized datahub for the Open Government Initiative.
 
 * Free software: MIT license
 * Documentation: https://opengov.readthedocs.io.
@@ -31,4 +30,5 @@ Download OpenGov, save your time, go change the world!
 Author
 -------
 Brandon Jin
+
 LinkedIn: www.linkedin.com/in/brandon-jin

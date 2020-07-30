@@ -6,6 +6,6 @@ To use OpenGov in a project::
 
     import opengov
 
-To save typing::
+or to save time::
 
     import opengov as og

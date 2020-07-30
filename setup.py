@@ -19,7 +19,7 @@ test_requirements = ['pytest>=3', ]
 setup(
     author="Brandon Jin",
     author_email='brandonjincmu@gmail.com',
-    python_requires='>=3.5',
+    python_requires='>=3',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -41,9 +41,10 @@ setup(
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='opengov',
+    keywords='data, Open Government',
     name='opengov',
     packages=find_packages(include=['opengov', 'opengov.*']),
+    install_requires=['requests'],
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
