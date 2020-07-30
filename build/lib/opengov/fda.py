@@ -1,2 +1,0 @@
-''' FDA Module '''
-import requests
